@@ -1,0 +1,23 @@
+{
+  "name": "projet-ci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elfi-11/Projet-Ci-CD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elfi-11/Projet-Ci-CD/issues"
+  },
+  "homepage": "https://github.com/Elfi-11/Projet-Ci-CD#readme",
+  "devDependencies": {
+    "vitest": "^3.1.1"
+  }
+}
